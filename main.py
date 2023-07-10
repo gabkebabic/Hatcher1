@@ -2,7 +2,7 @@
 # Looking to work with other hit me up on my email @metachar1@gmail.com <--
 import sys
 import datetime
-import selenium
+from sys import selenium
 import requests
 import time as t
 from sys import stdout
