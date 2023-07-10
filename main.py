@@ -142,5 +142,5 @@ password_selector = options.passsel
 login_btn_selector = options.loginsel
 website = options.website
 pass_list = options.passlist
-print banner
+print (banner)
 brutes(username, username_selector ,password_selector,login_btn_selector,pass_list, website)
